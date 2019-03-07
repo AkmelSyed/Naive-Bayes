@@ -1,2 +1,2 @@
-# ML-Algorithms
-ML algorithms from scratch
+# Naive Bayes
+Naive Bayes algorithms from scratch in Python
